@@ -1,5 +1,7 @@
 # Contents
 
+- [Readers Guide](Readers%20Guide.md)
+- [Learning Outcomes](Learning%20Outcomes.md)
 - [Blast and Search](1.%20Blast%20and%20Search)
   - [Research](1.%20Blast%20and%20Search/1.%20Research)
     - [Geture Package](1.%20Blast%20and%20Search/1.%20Research/1.%20Gesture%20Package.md)
