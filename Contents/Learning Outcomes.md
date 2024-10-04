@@ -10,6 +10,7 @@ With desired results we mean that you can clearly define the relevant research q
 
 |Documents|
 |:-------:|
+|[Gesture Package](1.%20Blast%20and%20Search/1.%20Research/1.%20Gesture%20Package.md)|
 ||
 
 ## Learning outcome 2: Advise
@@ -20,6 +21,7 @@ With recommendations we mean suggestions that you make that will help achieve de
 
 |Documents|
 |:-------:|
+|[Gesture Package](1.%20Blast%20and%20Search/1.%20Research/1.%20Gesture%20Package.md)|
 ||
 
 ## Learning outcome 3: Design
@@ -40,6 +42,7 @@ With create we mean that you are able to develop prototypes based on prior work 
 
 |Documents|
 |:-------:|
+|[Spell Casting](1.%20Blast%20and%20Search/2.Devlogs/1.%20Spell%20Casting.md)|
 ||
 
 ## Learning outcome 5: Manage & Control
@@ -72,7 +75,3 @@ In the XR Design minor, you enhance personal leadership by recognizing your stre
 |:-------:|
 ||
 
-
-You are aware of your own strengths and weaknesses, both in the field of ICT and in your personal development. You choose actions in line with your core values to promote your personal growth and develop your learning attitude.
-
-In the XR Design minor, you enhance personal leadership by recognizing your strengths and weaknesses in ICT and personal growth areas. You align your actions with core values, fostering a proactive learning attitude and ethical integrity. Through reflection and effective communication, you adapt to diverse stakeholder needs, ensuring your work is accountable and transparent. This focus on continuous improvement and self-awareness drives your professional and personal development.
