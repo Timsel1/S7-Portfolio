@@ -14,3 +14,9 @@ After the group industry project, I will have two weeks for an individual deep d
 
 ### Weeks 13-20: Group Industry Project 2
 In the final eight weeks, I will either continue the first group project or start a second industry project with a new direction and challenge. This phase will be an opportunity to further develop Secrets of Ignacios or collaborate on an entirely new concept.
+
+
+||What went well?|What went bad?|What to improve?|
+|:-:|:-:|:-:|:-:|
+|Sprint 0|Quick pace of working, we were ahead of schedule.|Getting in contact with the stakeholder.||
+|Sprint 1:|We were able to set up important systems and create some visuals for the game already.|Some git use and code convention. Also how the group had contact with the stakeholder at the start of the sprint.|When not sure, ask me or look at code convention/manifesto. Set up group chat with the stakeholder. (already done)|
