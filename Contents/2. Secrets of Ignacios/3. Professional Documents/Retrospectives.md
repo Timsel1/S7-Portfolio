@@ -1,0 +1,95 @@
+# Retrospectives
+Here all the group retrospectives can be found.
+
+## Contents
+- [Sprint 0 + 1](#sprint-0-+-1)
+- [](#)
+
+
+## Sprint 0 + 1
+### Yori
+#### What went well?
+- General teamwork
+- Communication
+- Workflow
+
+#### What could have gone better?
+- Some git usage
+- Sometimes people are late and let it know very late
+
+##### How/What to improve?
+- Some Git usage, minimal as most of it went completely fine
+- When you know you're late, let it know earlier if possible/ double check if needed
+
+### Loes
+#### What went well?
+- Progress
+- designing
+- brainstorming
+- teamwork
+  
+#### What could have gone better?
+- Following the Git rules (personally)
+
+##### How/What to improve?
+Git (personally)
+
+### Luc
+#### What went well?
+- Communication
+- Git usage
+
+### What could have gone better?
+- Didn't do first retrospective
+- (personally) Took a long time to get dev environment running
+
+#### How/What to improve?
+-
+
+Davey
+#### What went well?
+- Speed of progress in the project
+
+### What could have gone better?
+- People are easily distracted
+
+#### How/What to improve?
+- adding images / gifs too pull request if you are able to show something
+- Presentations for progress updates and sprint deadlines
+
+### Rick
+#### What went well?
+- We made progress quickly, being able to playtest already and having laid the foundation for adding new content quickly.
+- Our gitflow went smoothly, almost no merge conflicts
+- We had a good playtest
+
+### What could have gone better?
+- We didn't update the GDD with any new design docs
+- This retrospective felt kind of out of the blue (likely because it is the first one)
+
+#### How/What to improve?
+- We should focus on the hand gestures more, look at which ones fit the elements and are good for people to use.
+
+### Tim
+#### Sprint 0: 
+#### What went well? 
+- Quick pace of working, we were ahead of schedule. 
+
+### What could have gone better?? 
+- Getting in contact with the stakeholder. 
+
+#### How/What to improve?
+-
+
+#### Sprint 1:
+#### What went well? 
+- We were able to set up important systems and create some visuals for the game already. 
+
+#### What could have gone better?? 
+- Some git use and code convention. 
+- How the group had contact with the stakeholder at the start of this sprint. 
+
+#### How/What to improve?? 
+- When not sure, ask me or look at code convention/manifesto. 
+- Set up group chat with the stakeholder. (already done)
+
