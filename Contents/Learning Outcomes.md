@@ -11,7 +11,7 @@ With desired results we mean that you can clearly define the relevant research q
 |Documents|
 |:-------:|
 |[Gesture Package](1.%20Blast%20and%20Search/1.%20Research/1.%20Gesture%20Package.md)|
-||
+|[Player Movement](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/01.%20Player%20Movement.md)|
 
 ## Learning outcome 2: Advise
 
@@ -32,7 +32,9 @@ Analytical means that you work is based on prior analysis insights. You support 
 
 |Documents|
 |:-------:|
-||
+|[Spell Sequence System](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/02.%20Spell%20Sequence%20System.md) |
+|[1 Pager](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/01.%20Secrets%20of%20Ignacios%201-pager.pdf)|
+|[10 Pager](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/02.%20Secrets%20of%20Ignacios%2010-page%20GDD.pdf)|
 
 ## Learning outcome 4: Realisation
 
@@ -43,7 +45,11 @@ With create we mean that you are able to develop prototypes based on prior work 
 |Documents|
 |:-------:|
 |[Spell Casting](1.%20Blast%20and%20Search/2.Devlogs/1.%20Spell%20Casting.md)|
-||
+|[Player Movement](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/01.%20Player%20Movement.md)|
+|[Spell Sequence System](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/02.%20Spell%20Sequence%20System.md) |
+|[First Playtest Plan](2.%20Secrets%20of%20Ignacios/2.%20Playtests/01.%20First%20Playtest%20Plan.md)|
+|[First Playtest Results](2.%20Secrets%20of%20Ignacios/2.%20Playtests/02.%20First%20Playtest%20Results.md)|
+|[Test Report First Playtest](2.%20Secrets%20of%20Ignacios/2.%20Playtests/03.%20Test%20Report%20First%20Playtest.md)|
 
 ## Learning outcome 5: Manage & Control
 
@@ -53,7 +59,10 @@ With both individually as well as in a group context we mean that you show you c
 
 |Documents|
 |:-------:|
-||
+|[Group Manifesto](2.%20Secrets%20of%20Ignacios/4.%20Project%20Management/1.%20Group%20Manifesto.md)|
+|[Code Convention](2.%20Secrets%20of%20Ignacios/4.%20Project%20Management/2.%20Code%20Convention.md)|
+|[Code Management](2.%20Secrets%20of%20Ignacios/4.%20Project%20Management/3.%20Code%20Management.md)|
+|[Agile Work Method](2.%20Secrets%20of%20Ignacios/4.%20Project%20Management/4.%20Agile%20Work%20Method.md)|
 
 ## Learning outcome 6: Professional Standard
 
@@ -63,6 +72,10 @@ In the XR Design minor, you adeptly apply methodological research approaches lik
 
 |Documents|
 |:-------:|
+|[1 Pager](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/01.%20Secrets%20of%20Ignacios%201-pager.pdf)|
+|[10 Pager](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/02.%20Secrets%20of%20Ignacios%2010-page%20GDD.pdf)|
+|[Project Plan](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/03.%20Secrets%20of%20Ignacios%20Project%20Plan.pdf)|
+|[Retrospectives](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/04.%20Retrospectives.md)|
 ||
 
 ## Learning outcome 7: Personal Leadership
@@ -73,5 +86,5 @@ In the XR Design minor, you enhance personal leadership by recognizing your stre
 
 |Documents|
 |:-------:|
-||
+|[Project Management](2.%20Secrets%20of%20Ignacios/4.%20Project%20Management)|
 
