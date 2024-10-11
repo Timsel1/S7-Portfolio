@@ -12,7 +12,7 @@
     - [Player Movement](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/01.%20Player%20Movement.md)
     - [Spell Sequence System](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/02.%20Spell%20Sequence%20System.md) 
   - [Playtests](2.%20Secrets%20of%20Ignacios/2.%20Playtests)
-    - [First Playtest Plan](2.%20Playtests/01.%20First%20Playtest%20Plan.md)
+    - [First Playtest Plan](2.%20Secrets%20of%20Ignacios/2.%20Playtests/01.%20First%20Playtest%20Plan.md)
     - [First Playtest Results](2.%20Secrets%20of%20Ignacios/2.%20Playtests/02.%20First%20Playtest%20Results.md)
     - [Test Report First Playtest](2.%20Secrets%20of%20Ignacios/2.%20Playtests/03.%20Test%20Report%20First%20Playtest.md)
   - [Professional Documents](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents)
