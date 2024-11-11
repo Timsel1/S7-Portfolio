@@ -17,6 +17,7 @@
     - [Test Report First Playtest](2.%20Secrets%20of%20Ignacios/2.%20Playtests/03.%20Test%20Report%20First%20Playtest.md)
     - [Second Playtest Plan](2.%20Secrets%20of%20Ignacios/2.%20Playtests/04.%20Second%20Playtest%20Plan.md)
     - [Second Playtest Results](2.%20Secrets%20of%20Ignacios/2.%20Playtests/05.%20Second%20Playtest%20Results.md)
+    - [Test Report Second Playtest](2.%20Playtests/06.%20Test%20Report%20Second%20Playtest.md)
   - [Professional Documents](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents)
     - [1 Pager](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/01.%20Secrets%20of%20Ignacios%201-pager.pdf)
     - [10 Pager](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/02.%20Secrets%20of%20Ignacios%2010-page%20GDD.pdf)
