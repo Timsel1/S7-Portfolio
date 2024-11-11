@@ -3,6 +3,7 @@ Files that have been added/updated since the last delivery will be linked here. 
 
 ## Added
 - [Second Playetest Plan](2.%20Secrets%20of%20Ignacios/2.%20Playtests/04.%20Second%20Playtest%20Plan.md)
+- [Second Playtest Results](2.%20Secrets%20of%20Ignacios/2.%20Playtests/05.%20Second%20Playtest%20Results.md)
 - 
 
 ## Updated
