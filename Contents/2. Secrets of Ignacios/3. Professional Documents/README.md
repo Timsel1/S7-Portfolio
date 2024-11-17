@@ -13,3 +13,7 @@ These documents are group documents, in this readme I will describe my contribut
     - Player feedback
 - [Project Plan](03.%20Secrets%20of%20Ignacios%20Project%20Plan.pdf)
   - No notable individual contributions
+- [Dragons Den Presentation](05.%20Rogue%20Ape%20Dragons%20den%202.pdf)
+  - I have made the whole presentation except for the dia with the picture of the book (3rd to last slide)
+  - The link to the trailer can be found [here (https://www.youtube.com/watch?v=9IPyjD-FOuo)](https://www.youtube.com/watch?v=9IPyjD-FOuo) since the video won't be able to play in pdf format. Credit to Rick for making the trailer.
+  - I have presented this presentation during the dragons den, except for the 2 slides from "A little bit about Ignacios".
