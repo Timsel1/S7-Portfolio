@@ -17,3 +17,4 @@ These documents are group documents, in this readme I will describe my contribut
   - I have made the whole presentation except for the dia with the picture of the book (3rd to last slide)
   - The link to the trailer can be found [here (https://www.youtube.com/watch?v=9IPyjD-FOuo)](https://www.youtube.com/watch?v=9IPyjD-FOuo) since the video won't be able to play in pdf format. Credit to Rick for making the trailer.
   - I have presented this presentation during the dragons den, except for the 2 slides from "A little bit about Ignacios".
+  - I don't see myself as a good presenter, so I took the role of doing it this time around.
