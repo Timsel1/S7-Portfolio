@@ -22,6 +22,7 @@ With recommendations we mean suggestions that you make that will help achieve de
 |Documents|
 |:-------:|
 |[Gesture Package](1.%20Blast%20and%20Search/1.%20Research/1.%20Gesture%20Package.md)|
+|[Test Report First Playtest](2.%20Secrets%20of%20Ignacios/2.%20Playtests/03.%20Test%20Report%20First%20Playtest.md)|
 ||
 
 ## Learning outcome 3: Design
@@ -32,6 +33,8 @@ Analytical means that you work is based on prior analysis insights. You support 
 
 |Documents|
 |:-------:|
+|[Spell Sequence System](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/02.%20Spell%20Sequence%20System.md) |
+|[Player Movement](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/01.%20Player%20Movement.md)|
 |[Spell Sequence System](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/02.%20Spell%20Sequence%20System.md) |
 |[1 Pager](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/01.%20Secrets%20of%20Ignacios%201-pager.pdf)|
 |[10 Pager](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/02.%20Secrets%20of%20Ignacios%2010-page%20GDD.pdf)|
@@ -50,6 +53,9 @@ With create we mean that you are able to develop prototypes based on prior work 
 |[First Playtest Plan](2.%20Secrets%20of%20Ignacios/2.%20Playtests/01.%20First%20Playtest%20Plan.md)|
 |[First Playtest Results](2.%20Secrets%20of%20Ignacios/2.%20Playtests/02.%20First%20Playtest%20Results.md)|
 |[Test Report First Playtest](2.%20Secrets%20of%20Ignacios/2.%20Playtests/03.%20Test%20Report%20First%20Playtest.md)|
+|[Second Playtest Plan](2.%20Secrets%20of%20Ignacios/2.%20Playtests/04.%20Second%20Playtest%20Plan.md)|
+|[Second Playtest Results](2.%20Secrets%20of%20Ignacios/2.%20Playtests/05.%20Second%20Playtest%20Results.md)|
+|[Test Report Second Playtest](2.%20Secrets%20of%20Ignacios/2.%20Playtests/06.%20Test%20Report%20Second%20Playtest.md)|
 
 ## Learning outcome 5: Manage & Control
 
@@ -87,4 +93,5 @@ In the XR Design minor, you enhance personal leadership by recognizing your stre
 |Documents|
 |:-------:|
 |[Project Management](2.%20Secrets%20of%20Ignacios/4.%20Project%20Management)|
+[Dragons Den Presentation (Read README in [Professional Documents](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents))](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/05.%20Rogue%20Ape%20Dragons%20den%202.pdf)
 
