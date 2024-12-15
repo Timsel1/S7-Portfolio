@@ -7,6 +7,7 @@ Files that have been added/updated since the last delivery will be linked here. 
 - [Forward Motion](3.%20Deep%20Dive/2.%20Devlogs/01.%20Forward%20Motion.md) 
 - [Dynamic Gestures](3.%20Deep%20Dive/2.%20Devlogs/2.%202D%20Dynamic%20Gestures.md)
 - [Presentation Feedback](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/06.%20Presentation%20Feedback.md)
+- [ECS research WIP](2.%20Secrets%20of%20Ignacios/5.%20Research/01.%20Unity%20ECS.md)
 
 ## Updated
 - [Spell Aim Indicator](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/04.%20Spell%20Aim%20Indicators.md) Has been completed (but no DOT yet)
