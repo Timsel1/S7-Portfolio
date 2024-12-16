@@ -12,6 +12,10 @@ With desired results we mean that you can clearly define the relevant research q
 |:-------:|
 |[Gesture Package](1.%20Blast%20and%20Search/1.%20Research/1.%20Gesture%20Package.md)|
 |[Player Movement](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/01.%20Player%20Movement.md)|
+|[Dynamic Movement Detection](3.%20Deep%20Dive/1.%20Research/1.%20Dynamic%20Movement%20Detection.md)|
+|[Unity ECS (WIP)](2.%20Secrets%20of%20Ignacios/5.%20Research/01.%20Unity%20ECS.md)|
+||
+||
 
 ## Learning outcome 2: Advise
 
@@ -23,6 +27,9 @@ With recommendations we mean suggestions that you make that will help achieve de
 |:-------:|
 |[Gesture Package](1.%20Blast%20and%20Search/1.%20Research/1.%20Gesture%20Package.md)|
 |[Test Report First Playtest](2.%20Secrets%20of%20Ignacios/2.%20Playtests/03.%20Test%20Report%20First%20Playtest.md)|
+|[Test Report Second Playtest](2.%20Secrets%20of%20Ignacios/2.%20Playtests/06.%20Test%20Report%20Second%20Playtest.md)|
+|[Dynamic Movement Detection](3.%20Deep%20Dive/1.%20Research/1.%20Dynamic%20Movement%20Detection.md)|
+|[Unity ECS (WIP)](2.%20Secrets%20of%20Ignacios/5.%20Research/01.%20Unity%20ECS.md)|
 ||
 
 ## Learning outcome 3: Design
@@ -38,6 +45,11 @@ Analytical means that you work is based on prior analysis insights. You support 
 |[Spell Sequence System](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/02.%20Spell%20Sequence%20System.md) |
 |[1 Pager](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/01.%20Secrets%20of%20Ignacios%201-pager.pdf)|
 |[10 Pager](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/02.%20Secrets%20of%20Ignacios%2010-page%20GDD.pdf)|
+|[Second Aim indicator](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/05.%20Second%20Aim%20Indicator.md)|
+|[Performance Improvement](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/06.%20Performance%20Improvement.md)|
+|[Forward Motion](3.%20Deep%20Dive/2.%20Devlogs/01.%20Forward%20Motion.md)|
+|[Dynamic Gestures](3.%20Deep%20Dive/2.%20Devlogs/2.%202D%20Dynamic%20Gestures.md)|
+
 
 ## Learning outcome 4: Realisation
 
@@ -53,6 +65,13 @@ With create we mean that you are able to develop prototypes based on prior work 
 |[First Playtest Plan](2.%20Secrets%20of%20Ignacios/2.%20Playtests/01.%20First%20Playtest%20Plan.md)|
 |[First Playtest Results](2.%20Secrets%20of%20Ignacios/2.%20Playtests/02.%20First%20Playtest%20Results.md)|
 |[Test Report First Playtest](2.%20Secrets%20of%20Ignacios/2.%20Playtests/03.%20Test%20Report%20First%20Playtest.md)|
+|[Second Playtest Plan](2.%20Secrets%20of%20Ignacios/2.%20Playtests/04.%20Second%20Playtest%20Plan.md)|
+|[Second Playtest Results](2.%20Secrets%20of%20Ignacios/2.%20Playtests/05.%20Second%20Playtest%20Results.md)|
+|[Test Report Second Playtest](2.%20Secrets%20of%20Ignacios/2.%20Playtests/06.%20Test%20Report%20Second%20Playtest.md)|
+|[Second Aim indicator](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/05.%20Second%20Aim%20Indicator.md)|
+|[Performance Improvement](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/06.%20Performance%20Improvement.md)|
+|[Forward Motion](3.%20Deep%20Dive/2.%20Devlogs/01.%20Forward%20Motion.md)|
+|[Dynamic Gestures](3.%20Deep%20Dive/2.%20Devlogs/2.%202D%20Dynamic%20Gestures.md)|
 |[Second Playtest Plan](2.%20Secrets%20of%20Ignacios/2.%20Playtests/04.%20Second%20Playtest%20Plan.md)|
 |[Second Playtest Results](2.%20Secrets%20of%20Ignacios/2.%20Playtests/05.%20Second%20Playtest%20Results.md)|
 |[Test Report Second Playtest](2.%20Secrets%20of%20Ignacios/2.%20Playtests/06.%20Test%20Report%20Second%20Playtest.md)|
@@ -82,6 +101,7 @@ In the XR Design minor, you adeptly apply methodological research approaches lik
 |[10 Pager](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/02.%20Secrets%20of%20Ignacios%2010-page%20GDD.pdf)|
 |[Project Plan](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/03.%20Secrets%20of%20Ignacios%20Project%20Plan.pdf)|
 |[Retrospectives](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/04.%20Retrospectives.md)|
+|[Project Management](2.%20Secrets%20of%20Ignacios/4.%20Project%20Management)|
 ||
 
 ## Learning outcome 7: Personal Leadership
@@ -94,4 +114,5 @@ In the XR Design minor, you enhance personal leadership by recognizing your stre
 |:-------:|
 |[Project Management](2.%20Secrets%20of%20Ignacios/4.%20Project%20Management)|
 |[Dragons Den Presentation](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/05.%20Rogue%20Ape%20Dragons%20den%202.pdf) (Read README in [Professional Documents](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents))|
+|[Presentation Feedback](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/06.%20Presentation%20Feedback.md)|
 
