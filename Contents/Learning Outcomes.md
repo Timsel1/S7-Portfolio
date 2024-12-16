@@ -14,7 +14,7 @@ With desired results we mean that you can clearly define the relevant research q
 |[Player Movement](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/01.%20Player%20Movement.md)|
 |[Dynamic Movement Detection](3.%20Deep%20Dive/1.%20Research/1.%20Dynamic%20Movement%20Detection.md)|
 |[Unity ECS (WIP)](2.%20Secrets%20of%20Ignacios/5.%20Research/01.%20Unity%20ECS.md)|
-||
+|[Spell Aim Indicator](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/04.%20Spell%20Aim%20Indicators.md)|
 ||
 
 ## Learning outcome 2: Advise
@@ -45,6 +45,7 @@ Analytical means that you work is based on prior analysis insights. You support 
 |[Spell Sequence System](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/02.%20Spell%20Sequence%20System.md) |
 |[1 Pager](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/01.%20Secrets%20of%20Ignacios%201-pager.pdf)|
 |[10 Pager](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/02.%20Secrets%20of%20Ignacios%2010-page%20GDD.pdf)|
+|[Spell Aim Indicator](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/04.%20Spell%20Aim%20Indicators.md)|
 |[Second Aim indicator](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/05.%20Second%20Aim%20Indicator.md)|
 |[Performance Improvement](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/06.%20Performance%20Improvement.md)|
 |[Forward Motion](3.%20Deep%20Dive/2.%20Devlogs/01.%20Forward%20Motion.md)|
@@ -68,6 +69,7 @@ With create we mean that you are able to develop prototypes based on prior work 
 |[Second Playtest Plan](2.%20Secrets%20of%20Ignacios/2.%20Playtests/04.%20Second%20Playtest%20Plan.md)|
 |[Second Playtest Results](2.%20Secrets%20of%20Ignacios/2.%20Playtests/05.%20Second%20Playtest%20Results.md)|
 |[Test Report Second Playtest](2.%20Secrets%20of%20Ignacios/2.%20Playtests/06.%20Test%20Report%20Second%20Playtest.md)|
+|[Spell Aim Indicator](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/04.%20Spell%20Aim%20Indicators.md)|
 |[Second Aim indicator](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/05.%20Second%20Aim%20Indicator.md)|
 |[Performance Improvement](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/06.%20Performance%20Improvement.md)|
 |[Forward Motion](3.%20Deep%20Dive/2.%20Devlogs/01.%20Forward%20Motion.md)|
