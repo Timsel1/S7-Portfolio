@@ -1,6 +1,4 @@
 # S7-Portfolio Tim Meijvogel
-![GRRR](https://github.com/user-attachments/assets/b1d98087-95d3-46d8-9961-eff7af4c6c9f)
-
 This is my portfolio for my 7th semester (the minor XR-Design).
 
 This semester is made up of multiple projects, these projects are:
