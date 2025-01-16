@@ -3,6 +3,7 @@ Files that have been added/updated since the last delivery will be linked here. 
 
 ## Added
 - [Devlogs directory README](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/README.md)
+- [Secrets of Ignacios directory README](2.%20Secrets%20of%20Ignacios/README.md)
 
 ## Updated
 - [Spell Aim Indicator](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/04.%20Spell%20Aim%20Indicators.md) DOT has been added
