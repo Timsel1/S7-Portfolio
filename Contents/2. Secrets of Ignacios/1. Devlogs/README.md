@@ -1,5 +1,5 @@
 # Devlogs
-In this directory my devlogs can be found. These devlogs contain my proecess whan making new features, from design to realisation and validation.
+In this directory my devlogs can be found. These devlogs contain my process whan making new features, from design to realisation and validation.
 
 ## Closed Tickets 
 These closed tickets have either been comepletely done by me or I have contributed to finish the ticket. Most of these tickets do not have a devlog to go with them.   
