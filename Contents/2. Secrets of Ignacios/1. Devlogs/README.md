@@ -10,6 +10,6 @@ These closed tickets have either been comepletely done by me or I have contribut
 |![image](https://github.com/user-attachments/assets/7bcaf4f4-9415-48ed-87b9-3e6f61bc84da)|![image](https://github.com/user-attachments/assets/ae17f5a4-dd02-499d-84ed-c68bf0014773)|
 |![image](https://github.com/user-attachments/assets/069bee9b-96f2-4e6f-8cef-04a810166c42)|![image](https://github.com/user-attachments/assets/63905bda-8a91-442b-9783-54163071dce7)|
 
-The total amount of tickets closed as of the moment of writing is 138.
-|![image](https://github.com/user-attachments/assets/a0ca3961-c832-47e3-8d51-6ec0336aaa95)|
+|The total amount of tickets closed as of the moment of writing is 138.|
 |-|
+|![image](https://github.com/user-attachments/assets/a0ca3961-c832-47e3-8d51-6ec0336aaa95)|
