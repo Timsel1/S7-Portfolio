@@ -3,7 +3,7 @@ Here explainations and class diagrams of the code can be found (It might not be 
 
 |Complete system|
 |-|
-||
+|![image](https://github.com/user-attachments/assets/8ce273d8-c9ed-4c1e-a366-57d9b70d0faa)|
 
 ## Where can scripts be found
 - [Gesture Recognition](01.%20Gesture%20Recognition.md) contains:
