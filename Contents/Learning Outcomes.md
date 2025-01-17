@@ -15,7 +15,12 @@ With desired results we mean that you can clearly define the relevant research q
 |[Dynamic Movement Detection](3.%20Deep%20Dive/1.%20Research/1.%20Dynamic%20Movement%20Detection.md)|
 |[Unity ECS (WIP)](2.%20Secrets%20of%20Ignacios/5.%20Research/01.%20Unity%20ECS.md)|
 |[Spell Aim Indicator](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/04.%20Spell%20Aim%20Indicators.md)|
-||
+|[Spell Aim Indicator](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/04.%20Spell%20Aim%20Indicators.md)|
+|[Second Aim indicator](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/05.%20Second%20Aim%20Indicator.md)|
+|[Performance Improvement](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/06.%20Performance%20Improvement.md)|
+|[Forward Motion](3.%20Deep%20Dive/2.%20Devlogs/01.%20Forward%20Motion.md)|
+|[Dynamic Gestures](3.%20Deep%20Dive/2.%20Devlogs/2.%202D%20Dynamic%20Gestures.md)|
+|[Dynamic Movement Detection](3.%20Deep%20Dive/1.%20Research/1.%20Dynamic%20Movement%20Detection.md)|
 
 ## Learning outcome 2: Advise
 
@@ -30,7 +35,9 @@ With recommendations we mean suggestions that you make that will help achieve de
 |[Test Report Second Playtest](2.%20Secrets%20of%20Ignacios/2.%20Playtests/06.%20Test%20Report%20Second%20Playtest.md)|
 |[Dynamic Movement Detection](3.%20Deep%20Dive/1.%20Research/1.%20Dynamic%20Movement%20Detection.md)|
 |[Unity ECS (WIP)](2.%20Secrets%20of%20Ignacios/5.%20Research/01.%20Unity%20ECS.md)|
-||
+|[Advice Secrets of Ignacios](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/08.%20Secrets%20of%20Ignacios%20Advice.md)|
+|[Hand Tracking Game Advice](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/09.%20Hand%20Tracking%20Game%20Advice.md)|
+|[Technical Transfer Documentation for Secrets of Ignacios](2.%20Secrets%20of%20Ignacios/6.%20Technical)|
 
 ## Learning outcome 3: Design
 
@@ -50,7 +57,7 @@ Analytical means that you work is based on prior analysis insights. You support 
 |[Performance Improvement](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/06.%20Performance%20Improvement.md)|
 |[Forward Motion](3.%20Deep%20Dive/2.%20Devlogs/01.%20Forward%20Motion.md)|
 |[Dynamic Gestures](3.%20Deep%20Dive/2.%20Devlogs/2.%202D%20Dynamic%20Gestures.md)|
-
+|[Technical Transfer Documentation for Secrets of Ignacios](2.%20Secrets%20of%20Ignacios/6.%20Technical)|
 
 ## Learning outcome 4: Realisation
 
@@ -90,6 +97,7 @@ With both individually as well as in a group context we mean that you show you c
 |[Code Convention](2.%20Secrets%20of%20Ignacios/4.%20Project%20Management/2.%20Code%20Convention.md)|
 |[Code Management](2.%20Secrets%20of%20Ignacios/4.%20Project%20Management/3.%20Code%20Management.md)|
 |[Agile Work Method](2.%20Secrets%20of%20Ignacios/4.%20Project%20Management/4.%20Agile%20Work%20Method.md)|
+|[Technical Transfer Documentation for Secrets of Ignacios](2.%20Secrets%20of%20Ignacios/6.%20Technical)|
 
 ## Learning outcome 6: Professional Standard
 
@@ -104,7 +112,12 @@ In the XR Design minor, you adeptly apply methodological research approaches lik
 |[Project Plan](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/03.%20Secrets%20of%20Ignacios%20Project%20Plan.pdf)|
 |[Retrospectives](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/04.%20Retrospectives.md)|
 |[Project Management](2.%20Secrets%20of%20Ignacios/4.%20Project%20Management)|
-||
+|[Devlogs directory README](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/README.md)|
+|[Secrets of Ignacios directory README](2.%20Secrets%20of%20Ignacios/README.md)|
+|[Reflection](4.%20Reflection/01.%20Reflection%20Document.md)|
+|[Transfer Documentation](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/07.%20Transfer%20Documentation.md)|
+|[Advice Secrets of Ignacios](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/08.%20Secrets%20of%20Ignacios%20Advice.md)|
+|[Hand Tracking Game Advice](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/09.%20Hand%20Tracking%20Game%20Advice.md)|
 
 ## Learning outcome 7: Personal Leadership
 
@@ -117,4 +130,10 @@ In the XR Design minor, you enhance personal leadership by recognizing your stre
 |[Project Management](2.%20Secrets%20of%20Ignacios/4.%20Project%20Management)|
 |[Dragons Den Presentation](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/05.%20Rogue%20Ape%20Dragons%20den%202.pdf) (Read README in [Professional Documents](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents))|
 |[Presentation Feedback](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/06.%20Presentation%20Feedback.md)|
+|[Devlogs directory README](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/README.md)|
+|[Secrets of Ignacios directory README](2.%20Secrets%20of%20Ignacios/README.md)|
+|[Reflection](4.%20Reflection/01.%20Reflection%20Document.md)|
+|[Transfer Documentation](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/07.%20Transfer%20Documentation.md)|
+|[Advice Secrets of Ignacios](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/08.%20Secrets%20of%20Ignacios%20Advice.md)|
+|[Hand Tracking Game Advice](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/09.%20Hand%20Tracking%20Game%20Advice.md)|
 
