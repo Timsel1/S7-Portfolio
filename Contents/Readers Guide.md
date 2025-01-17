@@ -5,6 +5,11 @@ Files that have been added/updated since the last delivery will be linked here. 
 - [Devlogs directory README](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/README.md)
 - [Secrets of Ignacios directory README](2.%20Secrets%20of%20Ignacios/README.md)
 - [Reflection](4.%20Reflection/01.%20Reflection%20Document.md)
+- [Transfer Documentation](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/07.%20Transfer%20Documentation.md)
+- [Advice Secrets of Ignacios](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/08.%20Secrets%20of%20Ignacios%20Advice.md)
+- [Hand Tracking Game Advice](2.%20Secrets%20of%20Ignacios/3.%20Professional%20Documents/09.%20Hand%20Tracking%20Game%20Advice.md)
+- [Technical Transfer Documentation for Secrets of Ignacios](2.%20Secrets%20of%20Ignacios/6.%20Technical)
+
 
 ## Updated
 - [Spell Aim Indicator](2.%20Secrets%20of%20Ignacios/1.%20Devlogs/04.%20Spell%20Aim%20Indicators.md) DOT has been added
